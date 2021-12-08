@@ -52,4 +52,7 @@ public class TestArbol {
         ArbolBinario.postorden(arbol.raiz);
     }
     System.out.println(" Hola Mundo");
+
+    System.out.println("Prueba");
+    
 }
